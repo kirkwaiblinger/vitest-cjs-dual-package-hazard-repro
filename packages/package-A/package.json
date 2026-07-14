@@ -1,0 +1,8 @@
+{
+  "name": "package-A",
+  "type": "commonjs",
+  "exports": {
+    ".": "./lib/main.js",
+    "./other": "./lib/other.js"
+  }
+}
