@@ -1,0 +1,11 @@
+{
+  "name": "package-B",
+  "type": "commonjs",
+  "dependencies": {
+    "package-A": "workspace:"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3",
+    "vitest": "4.1.10"
+  }
+}
